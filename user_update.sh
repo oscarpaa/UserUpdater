@@ -6,7 +6,7 @@ updated_apps_count=0
 apps_sections=()
 sorted_sections=()
 #selected_sections=''
-selected_sections='graphics|web|mail|devel|sound|video|editors|text' #empty to select all
+selected_sections='graphics|web|mail|sound|video|editors|text' #empty to select all
 seconds_to_wait=5
 
 echo -e "\n=== Updating repositories ==="
